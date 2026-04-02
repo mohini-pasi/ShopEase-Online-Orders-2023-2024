@@ -29,7 +29,7 @@ Open Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
-###Run the notebooks:
+### Run the notebooks:
 
 First run: Task 1 — Data Cleaning & Exploration.ipynb
 
@@ -37,8 +37,8 @@ Then run: Task 3 — Visualisations.ipynb
 
 View: Task 4 — Short Written Summary.ipynb
 
-##MySQL - Task 2
-###Create database and table:
+## MySQL - Task 2
+### Create database and table:
 
 ```sql
 CREATE DATABASE shopease;
@@ -46,5 +46,5 @@ USE shopease;
 ```
 Import the CSV file into MySQL
 
-###Run queries from Task 2 — shopease.sql file
+### Run queries from Task 2 — shopease.sql file
 
