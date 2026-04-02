@@ -1,7 +1,7 @@
 # ShopEase Orders Analysis (2023–2024)
 
 ## Project Overview
-This project analyzes 1,000 e-commerce orders from ShopEase spanning January 2023 to December 2024. The analysis includes data cleaning, SQL queries, and visualizations to uncover business insights for management.
+This project analyzes e-commerce orders from ShopEase spanning January 2023 to December 2024. The analysis includes data cleaning, SQL queries, and visualizations to uncover business insights for management.
 
 ## GitHub Repository
 🔗 [https://github.com/mohini-pasi/ShopEase-Online-Orders-2023-2024](https://github.com/mohini-pasi/ShopEase-Online-Orders-2023-2024)
