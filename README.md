@@ -48,3 +48,11 @@ Import the cleaned_shopease_orders_2023_2024 CSV file into MySQL
 
 ### Run queries from Task 2 — shopease.sql file
 
+## Tools Used
+### Python 3.12
+
+### Pandas, NumPy, Matplotlib
+
+### Jupyter Notebook
+
+### MySQL
