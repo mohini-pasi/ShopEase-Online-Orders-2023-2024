@@ -44,7 +44,7 @@ View: Task 4 — Short Written Summary.ipynb
 CREATE DATABASE shopease;
 USE shopease;
 ```
-Import the CSV file into MySQL
+Import the cleaned_shopease_orders_2023_2024 CSV file into MySQL
 
 ### Run queries from Task 2 — shopease.sql file
 
