@@ -13,7 +13,7 @@ This project analyzes 1,000 e-commerce orders from ShopEase spanning January 202
 | `Task 1 — Data Cleaning & Exploration.ipynb` | Jupyter notebook with data cleaning, missing value analysis, and basic statistics |
 | `Task 2 — shopease.sql` | MySQL file with all 6 analysis queries |
 | `Task 3 — Visualisations.ipynb` | Jupyter notebook with 5 charts (bar, line, grouped bar, donut charts) |
-| `Task 4 — Short Written Summary.ipynb` | Executive summary in plain English for non-technical managers |
+| `Task 4 — Short Written Summary.ipynb` | Executive summary in plain English  |
 | `cleaned_shopease_orders_2023_2024.csv` | Cleaned dataset exported from Task 1 |
 | `README.md` | This file |
 
