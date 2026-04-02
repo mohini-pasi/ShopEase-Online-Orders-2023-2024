@@ -17,6 +17,23 @@ This project analyzes 1,000 e-commerce orders from ShopEase spanning January 202
 | `cleaned_shopease_orders_2023_2024.csv` | Cleaned dataset exported from Task 1 |
 | `README.md` | This file |
 
+## Tools Used
+### Python 3.12
+
+### Pandas, NumPy, Matplotlib
+
+### Jupyter Notebook
+
+## Libraries Used
+
+### Python Libraries
+| Library  Purpose |
+|---------|---------|
+| `pandas` | Data manipulation and analysis |
+| `numpy` | Numerical operations |
+| `matplotlib`  | Creating charts and visualizations |
+
+## MySQL 
 ## How to Run the Code
 
 ### Python (Jupyter Notebooks) - Task 1 & Task 3
@@ -48,11 +65,3 @@ Import the cleaned_shopease_orders_2023_2024 CSV file into MySQL
 
 ### Run queries from Task 2 — shopease.sql file
 
-## Tools Used
-### Python 3.12
-
-### Pandas, NumPy, Matplotlib
-
-### Jupyter Notebook
-
-### MySQL
