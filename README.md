@@ -27,11 +27,12 @@ This project analyzes 1,000 e-commerce orders from ShopEase spanning January 202
 ## Libraries Used
 
 ### Python Libraries
-| Library  Purpose |
+
+| Library | Purpose |
 |---------|---------|
 | `pandas` | Data manipulation and analysis |
 | `numpy` | Numerical operations |
-| `matplotlib`  | Creating charts and visualizations |
+| `matplotlib` | Creating charts and visualizations |
 
 ## MySQL 
 ## How to Run the Code
