@@ -18,15 +18,18 @@ This project analyzes 1,000 e-commerce orders from ShopEase spanning January 202
 | `README.md` | This file |
 
 ## Tools Used
-### Python 3.12
 
-### Pandas, NumPy, Matplotlib
+| Tool | Purpose |
+|------|---------|
+| Python 3.12 | Programming language |
+| Pandas | Data manipulation and analysis |
+| NumPy | Numerical operations |
+| Matplotlib | Creating charts and visualizations |
+| Jupyter Notebook | Running Python code interactively |
+| MySQL | Running SQL queries for analysis |
 
-### Jupyter Notebook
 
-## Libraries Used
-
-### Python Libraries
+##  Libraries Used
 
 | Library | Purpose |
 |---------|---------|
