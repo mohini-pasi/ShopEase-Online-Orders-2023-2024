@@ -24,3 +24,27 @@ This project analyzes 1,000 e-commerce orders from ShopEase spanning January 202
 1. **Install required libraries:**
    ```bash
    pip install pandas numpy matplotlib
+Open Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+Run the notebooks:
+
+First run: Task 1 — Data Cleaning & Exploration.ipynb
+
+Then run: Task 3 — Visualisations.ipynb
+
+View: Task 4 — Short Written Summary.ipynb
+
+MySQL - Task 2
+Create database and table:
+
+```sql
+CREATE DATABASE shopease;
+USE shopease;
+```
+Import the CSV file into MySQL
+
+Run queries from Task 2 — shopease.sql file
+
